@@ -1,6 +1,6 @@
 - 👋 Hi there, my name is Fengzhe (Alan) Liu.
 - 👀 I am a graduate student from Columbia University and I am passionate about computer science and finance. 
-- Currently look for internship as software developer in New York.
+- Currently look for internship as software development engineer in New York.
 - 📫 How to reach me: 
 - Email: fl2635@columbia.edu
 - Phone: (+1)9175208876

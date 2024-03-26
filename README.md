@@ -1,8 +1,7 @@
 Hi there! my name is <strong>Fengzhe (Alan) Liu</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👀 I am a graduate student from <em>Columbia University</em> and I am passionate about computer science, data science, and economics. 
 - Software skills: 
-![](https://img.shields.io/badge/<code>-<Java>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)  ![]
-(https://img.shields.io/badge/<tool>-<MySQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<shell>-<Bash>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+Java, Python, Stata, R, JavaScript, Node.js, SQL, MongoDB, Docker, AWS
 
 
 - 📫 How to reach me:  

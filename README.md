@@ -1,7 +1,7 @@
 Hi there! my name is <strong>Fengzhe (Alan) Liu</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 👀 I am a graduate student from <em>Columbia University</em> and I am passionate about computer science, data science, and economics. 
+- 👀 I am a graduate student from <em>Columbia University</em> and I am passionate about economics, computer science, and data science. 
 - Software skills: 
-Java, Python, Stata, R, JavaScript, Node.js, SQL, MongoDB, Docker, AWS
+Python, Stata, R, Java, JavaScript, Node.js, SQL, MongoDB, Docker, AWS
 
 
 - 📫 How to reach me:  

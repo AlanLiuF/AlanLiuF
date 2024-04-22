@@ -8,7 +8,6 @@ Python, Stata, R, Java, JavaScript, Node.js, SQL, MongoDB, Docker, AWS
   <ul>
   <li> Email: fl2635@columbia.edu </li>
   <li> Phone: (+1)9175208876 </li>
-  <li> LinkedIn: https://www.linkedin.com/in/fengzhe-l-3b58311ba/ </li>
   </ul>
 
 <!---
